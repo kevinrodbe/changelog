@@ -1,6 +1,13 @@
 # Hi
 
  bais bla bla 🔥
+## [4.5.0](///yape/v4.4.0...v4.5.0) (2022-04-16)
+
+
+### Features
+
+* custom standard 30800be
+
 ## [4.4.0](///compare/v4.3.0...v4.4.0) (2022-04-16)
 
 
