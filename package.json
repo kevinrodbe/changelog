@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "commit": "cz"
+    "cm": "cz"
   },
   "keywords": [],
   "author": "Kevin RodBe",
