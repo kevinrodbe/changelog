@@ -1,6 +1,13 @@
 # Hi
 
  bais bla bla 🔥
+## [4.6.0](https://github.com/kevinrodbe/changelog/yape/v4.5.0...v4.6.0) (2022-04-16)
+
+
+### Features
+
+* custom standard 2 ([bd667d3](https://github.com/kevinrodbe/changelog/commit/bd667d3da65c03ca0d1eca10224c5991b05740b2))
+
 ## [4.5.0](///yape/v4.4.0...v4.5.0) (2022-04-16)
 
 
