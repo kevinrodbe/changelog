@@ -14,6 +14,7 @@ ch 4
 ch 5
 ch 6
 ch 7
+ch 8
 
 ((el scope sirve para ponerlo en features o bug fixes))
 breaking changes
