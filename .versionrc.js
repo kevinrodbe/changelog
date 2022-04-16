@@ -15,5 +15,5 @@ module.exports = {
     { type: 'build', section: 'Build System', hidden: false },
     { type: 'ci', section: 'CI', hidden: false },
   ],
-  compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/yape/{{previousTag}}...{{currentTag}}',
+  compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}',
 };
