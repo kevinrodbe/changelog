@@ -9,3 +9,4 @@ refa 8
 refa 9
 ch 1
 ch 2
+ch 3
