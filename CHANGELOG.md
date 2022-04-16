@@ -2,6 +2,41 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](///compare/v3.0.0...v4.0.0) (2022-04-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** rompe fast 2
+
+ff-2
+* **core:** rompe r 4 des
+
+pp-4
+* **core:** rompe 3
+
+pp-3
+* **core:** rompe ch 2
+
+pp-2
+* **core:** rompe ch 1
+
+pp-1
+
+### Features
+
+* **core:** 1 4623973
+* **core:** change 2 1fdd99f
+
+
+### Bug Fixes
+
+* **core:** f1 b2801e6
+
+
+* **core:** fast 2 6040b14
+* **core:** rompe r4 3b571ed
+
 ## [3.0.0](///compare/v2.0.0...v3.0.0) (2022-04-16)
 
 
