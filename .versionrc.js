@@ -1,3 +1,3 @@
 module.exports = {
-  changelogHeader: 'hi',
+  changelogHeader: '# Hi\n\n bais bla bla 🔥',
 };
