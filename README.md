@@ -22,3 +22,10 @@ breaking changes
 ((el tipo: refactor, feat, etc no aparece))
 - scope: description breaking change
   issue reference
+
+
+lo q se manda a changelog-conventional
+{
+  preset: 'angular' // name del preset,
+  header || changelogHeader: 'template boolean'
+}
