@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "release": "standard-version",
     "cm": "cz"
   },
@@ -11,8 +12,11 @@
   "author": "Kevin RodBe",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.4",
     "standard-version": "^9.3.2"
   },
   "config": {

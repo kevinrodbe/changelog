@@ -14,6 +14,8 @@ ch 4
 ch 5
 ch 6
 
+((el scope sirve para ponerlo en features o bug fixes))
 breaking changes
+((el tipo: refactor, feat, etc no aparece))
 - scope: description breaking change
   issue reference
