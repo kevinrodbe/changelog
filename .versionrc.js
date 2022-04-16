@@ -1,5 +1,5 @@
 module.exports = {
-  changelogHeader: '# Hi\n\n bais bla bla 🔥',
+  changelogHeader: `# Hi\n\n bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)`,
   releaseCommitMessageFormat: 'chore(release): {{currentTag}} [skip ci]',
   types: [
     { type: 'chore', section: 'Others', hidden: false },
