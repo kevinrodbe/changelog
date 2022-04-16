@@ -1,6 +1,13 @@
 # Hi
 
- bais bla bla 🔥
+ bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [4.8.0](https://github.com/kevinrodbe/changelog/compare/v4.7.0...v4.8.0) (2022-04-16)
+
+
+### Features
+
+* custom standard 4 ([3f4c6aa](https://github.com/kevinrodbe/changelog/commit/3f4c6aae4bfacbe43273ed302aaecffcc992e8da))
+
 ## [4.7.0](https://github.com/kevinrodbe/changelog/compare/v4.6.0...v4.7.0) (2022-04-16)
 
 
