@@ -1,5 +1,5 @@
 module.exports = {
-  preset: 'angular',
+  // preset: 'angular',
   changelogHeader: `# Hi\n\n bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)`,
   releaseCommitMessageFormat: 'chore(release): {{currentTag}} [skip ci]',
   types: [
