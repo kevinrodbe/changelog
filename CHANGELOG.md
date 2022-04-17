@@ -1,6 +1,24 @@
 # Hi
 
  bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [7.1.0](https://github.com/kevinrodbe/changelog/compare/v7.0.0...v7.1.0--) (2022-04-17)
+
+
+### Features
+
+* remove prepare-commit-msg hook ([615a4ad](https://github.com/kevinrodbe/changelog/commit/615a4add5355aac40d0897149173d17da1a1eed0))
+
+
+### Others
+
+* **release:** 6.0.0 ([022c0e1](https://github.com/kevinrodbe/changelog/commit/022c0e1e980ccafdc70ce235ec605e2c72d192f4))
+* **release:** 7.0.1 [skip ci] ([208583c](https://github.com/kevinrodbe/changelog/commit/208583cf0accb1af76a483cddaac44454fc949e0))
+
+
+### CI
+
+* **vii:** okk ([ac29c76](https://github.com/kevinrodbe/changelog/commit/ac29c76974878aa9120891759be636d6133b2cef))
+
 ### [7.0.1](https://github.com/kevinrodbe/changelog/compare/v7.0.0...v7.0.1--) (2022-04-17)
 
 ## [7.0.0](https://github.com/kevinrodbe/changelog/compare/v5.0.0...v7.0.0--) (2022-04-17)
