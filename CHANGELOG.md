@@ -1,6 +1,19 @@
 # Hi
 
  bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [11.0.0](https://github.com/kevinrodbe/changelog/compare/v10.0.0...v11.0.0--) (2022-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **tpl:** des
+
+sc-123
+
+### Features
+
+* **tpl:** remove comment ([d712c19](https://github.com/kevinrodbe/changelog/commit/d712c19d7f22493a655003d54e16a14f35823e10))
+
 ## [10.0.0](https://github.com/kevinrodbe/changelog/compare/v9.0.0...v10.0.0--) (2022-04-17)
 
 
