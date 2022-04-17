@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/kevinrodbe/changelog.git"
   },
+  "issue": "https://github.com/kevinrodbe/changelog/bugs",
   "bugs": {
     "url": "https://github.com/kevinrodbe/changelog/issues"
   },
