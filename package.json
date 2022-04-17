@@ -30,17 +30,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog",
-      "types": {
-        "foo": {
-          "title": "foo",
-          "description": "This is a foo change."
-        },
-        "bar": {
-          "title": "bar",
-          "description": "This is a bar change."
-        }
-      }
+      "path": "cz-conventional-changelog"
     }
   }
 }
