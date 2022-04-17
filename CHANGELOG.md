@@ -1,6 +1,8 @@
 # Hi
 
  bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+### [7.0.1](https://github.com/kevinrodbe/changelog/compare/v7.0.0...v7.0.1--) (2022-04-17)
+
 ## [7.0.0](https://github.com/kevinrodbe/changelog/compare/v5.0.0...v7.0.0--) (2022-04-17)
 
 
