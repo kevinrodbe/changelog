@@ -14,7 +14,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "release": "HUSKY_SKIP_HOOKS=1 standard-version",
+    "release": "HUSKY=0 standard-version",
     "cm": "cz"
   },
   "keywords": [],
