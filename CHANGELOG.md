@@ -1,6 +1,17 @@
 # Hi
 
  bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [10.0.0](https://github.com/kevinrodbe/changelog/compare/v9.0.0...v10.0.0--) (2022-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **tpl:** bais ng
+
+### Features
+
+* **tpl:** undo ng ([fc67830](https://github.com/kevinrodbe/changelog/commit/fc678300d484d0b57ecfc7b8f857f5e8f3ddcb59)), closes [#sc-12](https://github.com/kevinrodbe/changelog/bug/sc-12)
+
 # [9.0.0](https://github.com/kevinrodbe/changelog/compare/v8.0.0...v9.0.0) (2022-04-17)
 
 
