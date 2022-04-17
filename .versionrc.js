@@ -15,5 +15,6 @@ module.exports = {
     { type: 'build', section: 'Build System', hidden: false },
     { type: 'ci', section: 'CI', hidden: false },
   ],
-  compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}',
+  compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}--{{user}}',
+  issueUrlFormat: `{{host}}/{{owner}}/{{repository}}/bug/{{id}}`,
 };
