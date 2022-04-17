@@ -1,6 +1,17 @@
 # Hi
 
- bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+ bais bla bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [12.0.0](https://github.com/kevinrodbe/changelog/compare/v11.0.0...v12.0.0--) (2022-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **asd:** ltt
+
+### Features
+
+* **asd:** asdf ([607502a](https://github.com/kevinrodbe/changelog/commit/607502a6ee4d4cae163f8a6adfd4c19278e6df5c)), closes [#sc-123](https://github.com/kevinrodbe/changelog/bug/sc-123)
+
 ## [11.0.0](https://github.com/kevinrodbe/changelog/compare/v10.0.0...v11.0.0--) (2022-04-17)
 
 
