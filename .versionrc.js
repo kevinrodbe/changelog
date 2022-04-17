@@ -17,4 +17,5 @@ module.exports = {
   ],
   compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}--{{user}}',
   issueUrlFormat: `{{host}}/{{owner}}/{{repository}}/bug/{{id}}`,
+  issuePrefixes: ['#', ''],
 };
