@@ -1,6 +1,17 @@
 # Hi
 
- bais bla bla hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+ bais bla bla hi lorem 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [16.0.0](https://github.com/kevinrodbe/changelog/compare/v15.0.0...v16.0.0--) (2022-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **zxc:** con fe
+
+### Features
+
+* **zxc:** zxcvb ([af9d1ee](https://github.com/kevinrodbe/changelog/commit/af9d1ee8b8f17a0542df635b51ff79b4d925349c)), closes [#sc-123](https://github.com/kevinrodbe/changelog/bug/sc-123)
+
 ## [15.0.0](https://github.com/kevinrodbe/changelog/compare/v14.0.0...v15.0.0--) (2022-04-17)
 
 
