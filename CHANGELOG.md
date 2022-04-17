@@ -1,6 +1,24 @@
 # Hi
 
  bais bla bla 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [6.0.0](https://github.com/kevinrodbe/changelog/compare/v5.0.0...v6.0.0--) (2022-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **huskyy:** esto rompe algo
+
+bug-123
+
+### Features
+
+* update package.json ([0921746](https://github.com/kevinrodbe/changelog/commit/092174661976367e088d6b9b3fae16caf70db35e))
+
+
+### Bug Fixes
+
+* **huskyy:** add prepare-commit ([bf1efe8](https://github.com/kevinrodbe/changelog/commit/bf1efe858718372e69bf55ba1f91d45cb3b9f0cc))
+
 ## [5.0.0](https://github.com/kevinrodbe/changelog/compare/v4.8.0...v5.0.0--) (2022-04-17)
 
 
