@@ -1,3 +1,10 @@
+## [24.1.0](https://github.com/kevinrodbe/changelog/compare/v24.0.0...v24.1.0--) (2022-04-18)
+
+
+### Features
+
+* **npm:** to publish ([15b9c9c](https://github.com/kevinrodbe/changelog/commit/15b9c9cd75fb0da7dc36d4b926b2d936bdb39544))
+
 ## [24.0.0](https://github.com/kevinrodbe/changelog/compare/v23.0.0...v24.0.0--) (2022-04-18)
 
 
