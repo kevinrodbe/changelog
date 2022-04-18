@@ -2,6 +2,13 @@
 
  again pipol 🚀 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
 
+# [22.5.0](https://github.com/kevinrodbe/changelog/compare/v22.4.0...v22.5.0) (2022-04-18)
+
+
+### Features
+
+* **scope:** config notes ([587a350](https://github.com/kevinrodbe/changelog/commit/587a35037f8d26b8a1575c425b7def2940dcee47))
+
 # [22.4.0](https://github.com/kevinrodbe/changelog/compare/v22.3.0...v22.4.0) (2022-04-18)
 
 
