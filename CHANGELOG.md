@@ -1,3 +1,10 @@
+## [24.3.0](https://github.com/kevinrodbe/changelog/compare/v24.2.0...v24.3.0--) (2022-04-18)
+
+
+### Features
+
+* docs test ([dfbfc35](https://github.com/kevinrodbe/changelog/commit/dfbfc3505c368e2a7afaf82abac7e4eaf24e825a))
+
 ## [24.2.0](https://github.com/kevinrodbe/changelog/compare/v24.1.0...v24.2.0--) (2022-04-18)
 
 
