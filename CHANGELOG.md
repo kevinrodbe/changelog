@@ -1,3 +1,14 @@
+## [23.0.0](https://github.com/kevinrodbe/changelog/compare/v22.7.0...v23.0.0--) (2022-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* **scope:** rompe
+
+### Features
+
+* **scope:** short ([a8065ae](https://github.com/kevinrodbe/changelog/commit/a8065ae131958b0074f795e6d8329c941a865848)), closes [#123](https://github.com/kevinrodbe/changelog/bug/123)
+
 ## [22.7.0](https://github.com/kevinrodbe/changelog/compare/v22.6.0...v22.7.0--) (2022-04-18)
 
 
