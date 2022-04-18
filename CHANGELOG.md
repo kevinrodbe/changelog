@@ -1,5 +1,16 @@
 # Hi
 
+ again pipol 🚀 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+
+# [22.4.0](https://github.com/kevinrodbe/changelog/compare/v22.3.0...v22.4.0) (2022-04-18)
+
+
+### Features
+
+* **pkg:** title ([bf60483](https://github.com/kevinrodbe/changelog/commit/bf60483d28c63487b6111acdf51c7c7be6aea6f9))
+
+# Hi
+
  again pipol ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
 
 # [22.3.0](https://github.com/kevinrodbe/changelog/compare/v22.2.0...v22.3.0) (2022-04-18)
