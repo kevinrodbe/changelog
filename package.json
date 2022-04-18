@@ -1,5 +1,5 @@
 {
-  "name": "ch1",
+  "name": "changelog",
   "version": "24.0.0",
   "description": "my repo",
   "host": "github.com",
@@ -22,6 +22,9 @@
   "keywords": [],
   "author": "Kevin RodBe",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
@@ -111,7 +114,7 @@
       [
         "@semantic-release/npm",
         {
-          "npmPublish": false
+          "npmPublish": true
         }
       ],
       "@semantic-release/git",
