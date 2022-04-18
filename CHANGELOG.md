@@ -1,6 +1,13 @@
 # Hi
 
  bais bla bla hi hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+### [21.0.1-0](https://github.com/kevinrodbe/changelog/compare/v21.0.0...v21.0.1-0--) (2022-04-18)
+
+
+### Others
+
+* **pkg:** add semantic ([0ea7148](https://github.com/kevinrodbe/changelog/commit/0ea7148fc5a91806e3cdb90e2cdf9945237a90d5)), closes [#123](https://github.com/kevinrodbe/changelog/bug/123)
+
 ## [21.0.0](https://github.com/kevinrodbe/changelog/compare/v20.0.0...v21.0.0--) (2022-04-18)
 
 
