@@ -1,3 +1,10 @@
+## [24.7.0-pre.1](https://github.com/kevinrodbe/changelog/compare/v24.6.0...v24.7.0-pre.1) (2022-04-18)
+
+
+### Features
+
+* add branch ([dd2ef3b](https://github.com/kevinrodbe/changelog/commit/dd2ef3b10a52e54efd840615299111a97a5ed03a))
+
 ## [24.6.0](https://github.com/kevinrodbe/changelog/compare/v24.5.1...v24.6.0) (2022-04-18)
 
 
