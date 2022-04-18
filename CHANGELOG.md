@@ -1,3 +1,14 @@
+## [24.0.0](https://github.com/kevinrodbe/changelog/compare/v23.0.0...v24.0.0--) (2022-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* **pkg:** rompe npm
+
+### Features
+
+* **pkg:** add npm sv ([21a4635](https://github.com/kevinrodbe/changelog/commit/21a463512b9e0b8bfb4df573ff5e607c6b3f8576)), closes [#123](https://github.com/kevinrodbe/changelog/bug/123)
+
 ## [23.0.0](https://github.com/kevinrodbe/changelog/compare/v22.7.0...v23.0.0--) (2022-04-18)
 
 
