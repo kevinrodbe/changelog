@@ -1,3 +1,11 @@
+## [24.4.0](https://github.com/kevinrodbe/changelog/compare/v24.3.0...v24.4.0--) (2022-04-18)
+
+
+### Features
+
+* add env npm token in yaml ([70b9ae0](https://github.com/kevinrodbe/changelog/commit/70b9ae002126436858b2781964fb12cd48be6862))
+* disable npm publish ([d144551](https://github.com/kevinrodbe/changelog/commit/d1445513a8e30694081e4f43120e0373cec902cf))
+
 ## [24.3.0](https://github.com/kevinrodbe/changelog/compare/v24.2.0...v24.3.0--) (2022-04-18)
 
 
