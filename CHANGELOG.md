@@ -1,6 +1,13 @@
 # Hi
 
- bais bla bla hi hi hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+ bais bla bla hi hi🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [22.0.0-1](https://github.com/kevinrodbe/changelog/compare/v22.0.0-0...v22.0.0-1--) (2022-04-18)
+
+
+### CI
+
+* **pipe:** asd ([01fca9f](https://github.com/kevinrodbe/changelog/commit/01fca9f0b116c3defdde562c6bb4d636900f0678))
+
 ## [22.0.0-0](https://github.com/kevinrodbe/changelog/compare/v21.1.0-3...v22.0.0-0--) (2022-04-18)
 
 
