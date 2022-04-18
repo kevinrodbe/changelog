@@ -1,6 +1,6 @@
 {
   "name": "ch1",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "description": "my repo",
   "host": "github.com",
   "main": "index.js",
