@@ -1,3 +1,10 @@
+## [24.5.0](https://github.com/kevinrodbe/changelog/compare/v24.4.0...v24.5.0--) (2022-04-18)
+
+
+### Features
+
+* add secret ([ac7bbb1](https://github.com/kevinrodbe/changelog/commit/ac7bbb13ddcf606086a66aa9be4f79f093e133d2))
+
 ## [24.4.0](https://github.com/kevinrodbe/changelog/compare/v24.3.0...v24.4.0--) (2022-04-18)
 
 
