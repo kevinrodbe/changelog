@@ -1,3 +1,11 @@
+## [22.6.0](https://github.com/kevinrodbe/changelog/compare/v22.5.0...v22.6.0--) (2022-04-18)
+
+
+### Features
+
+* **pkg1:** fix null #au-12 ([c53b183](https://github.com/kevinrodbe/changelog/commit/c53b1830c2bf0bd7ea4ed4b06779a44ecdddd638)), closes [#au-12](https://github.com/kevinrodbe/changelog/bug/au-12)
+* **pkg1:** use convcomi ([4f852d2](https://github.com/kevinrodbe/changelog/commit/4f852d21d968824d73eb771d90bcb034e7c5bec1))
+
 # Hi
 
  again pipol 🚀 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
