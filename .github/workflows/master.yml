@@ -22,8 +22,8 @@ jobs:
         uses: bahmutov/npm-install@v1
       - run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # - name: Bumping by minor 📦 🆙
       #   run: npm run minor
       # - run: git push
