@@ -1,3 +1,10 @@
+## [24.6.0](https://github.com/kevinrodbe/changelog/compare/v24.5.1...v24.6.0) (2022-04-18)
+
+
+### Features
+
+* remove npm token from yml ([1eb7430](https://github.com/kevinrodbe/changelog/commit/1eb743081683f76d4a001362d25939d56cdb2b90))
+
 ### [24.5.1](https://github.com/kevinrodbe/changelog/compare/v24.5.0...v24.5.1) (2022-04-18)
 
 
