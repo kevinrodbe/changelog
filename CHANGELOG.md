@@ -1,6 +1,13 @@
 # Hi
 
- bais bla bla hi hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+ bais bla bla hi hi hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [21.1.0-2](https://github.com/kevinrodbe/changelog/compare/v21.1.0-1...v21.1.0-2--) (2022-04-18)
+
+
+### Bug Fixes
+
+* **zxc:** zxcc ([fba869f](https://github.com/kevinrodbe/changelog/commit/fba869f7f771cdceecb8f09bb9aaced092a17490))
+
 ## [21.1.0-1](https://github.com/kevinrodbe/changelog/compare/v21.1.0-0...v21.1.0-1--) (2022-04-18)
 
 
