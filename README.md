@@ -1,6 +1,6 @@
 # Testing semantic-release + CI
 
-## DONT USE
+## DONT USE !
 
 feat 1
 feat 2 issue
