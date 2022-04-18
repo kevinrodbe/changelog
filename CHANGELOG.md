@@ -1,6 +1,13 @@
 # Hi
 
  bais bla bla hi hi 🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [21.1.0-0](https://github.com/kevinrodbe/changelog/compare/v21.0.1-0...v21.1.0-0--) (2022-04-18)
+
+
+### Features
+
+* **pkg:** add pre script ([3830166](https://github.com/kevinrodbe/changelog/commit/3830166bac9a93be2c55119c665358c66f6c10c1))
+
 ### [21.0.1-0](https://github.com/kevinrodbe/changelog/compare/v21.0.0...v21.0.1-0--) (2022-04-18)
 
 
