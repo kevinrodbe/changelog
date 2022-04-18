@@ -1,3 +1,16 @@
+# [22.2.0](https://github.com/kevinrodbe/changelog/compare/v22.1.0...v22.2.0) (2022-04-18)
+
+
+### Bug Fixes
+
+* pipe ([e0c2bde](https://github.com/kevinrodbe/changelog/commit/e0c2bdeb6537dae53311fa602002b610e374e23d))
+* pipe 2 ([cf90e0c](https://github.com/kevinrodbe/changelog/commit/cf90e0c17eaa4699cd071dc4abb2263bbea990bb))
+
+
+### Features
+
+* testing ci ([f7ab991](https://github.com/kevinrodbe/changelog/commit/f7ab9916dbb5f9681ac30a7a10a713d83a4869df))
+
 # Hi
 
  bais bla bla hi🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
