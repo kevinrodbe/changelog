@@ -1,3 +1,10 @@
+## [22.7.0](https://github.com/kevinrodbe/changelog/compare/v22.6.0...v22.7.0--) (2022-04-18)
+
+
+### Features
+
+* **scope:** short ([a3a331d](https://github.com/kevinrodbe/changelog/commit/a3a331d224ff9898cdf389e6a753840a23cf2afb)), closes [SC-123](https://github.com/kevinrodbe/changelog/bug/123)
+
 ## [22.6.0](https://github.com/kevinrodbe/changelog/compare/v22.5.0...v22.6.0--) (2022-04-18)
 
 
