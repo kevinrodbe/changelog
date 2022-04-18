@@ -1,3 +1,10 @@
+## [24.7.0-pre.2](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.1...v24.7.0-pre.2) (2022-04-18)
+
+
+### Features
+
+* remove comments from yml ([431dc6d](https://github.com/kevinrodbe/changelog/commit/431dc6d447045ccdf2c21ced5cdb8ef8846aaec7))
+
 ## [24.7.0-pre.1](https://github.com/kevinrodbe/changelog/compare/v24.6.0...v24.7.0-pre.1) (2022-04-18)
 
 
