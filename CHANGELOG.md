@@ -1,3 +1,10 @@
+## [24.2.0](https://github.com/kevinrodbe/changelog/compare/v24.1.0...v24.2.0--) (2022-04-18)
+
+
+### Features
+
+* **npm:** change scope name ([51e90ce](https://github.com/kevinrodbe/changelog/commit/51e90ce559c2c3fd65be2295dfbd0cc61ef909a8))
+
 ## [24.1.0](https://github.com/kevinrodbe/changelog/compare/v24.0.0...v24.1.0--) (2022-04-18)
 
 
