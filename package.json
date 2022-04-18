@@ -104,8 +104,7 @@
             "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}--{{user}}",
             "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/bug/{{id}}",
             "issuePrefixes": [
-              "#",
-              "SC-"
+              "#"
             ]
           }
         }
@@ -114,7 +113,7 @@
       [
         "@semantic-release/npm",
         {
-          "npmPublish": true
+          "npmPublish": false
         }
       ],
       "@semantic-release/git",
