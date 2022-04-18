@@ -16,6 +16,7 @@
   "scripts": {
     "prepare": "husky install",
     "release": "HUSKY=0 standard-version",
+    "pre": "npm run release -- --prerelease",
     "cm": "cz"
   },
   "keywords": [],
