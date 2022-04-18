@@ -1,6 +1,13 @@
 # Hi
 
- bais bla bla hi hi🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+ bais bla bla hi🔥 ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)
+## [22.1.0](https://github.com/kevinrodbe/changelog/compare/v22.0.0...v22.1.0--) (2022-04-18)
+
+
+### Features
+
+* **lk:** lkj ([bac8841](https://github.com/kevinrodbe/changelog/commit/bac8841e14f988307ca413193017195d3dfe0c73))
+
 ## [22.0.0](https://github.com/kevinrodbe/changelog/compare/v22.0.0-1...v22.0.0--) (2022-04-18)
 
 
