@@ -1,3 +1,10 @@
+## [24.7.0-pre.6](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.5...v24.7.0-pre.6) (2022-04-19)
+
+
+### Bug Fixes
+
+* version 2.8 ([270bead](https://github.com/kevinrodbe/changelog/commit/270bead0d7c2369eeeadb8b8c9728db1b3df7842))
+
 ## [24.7.0-pre.5](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.4...v24.7.0-pre.5) (2022-04-19)
 
 
