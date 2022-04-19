@@ -1,3 +1,10 @@
+## [24.8.0-pre.3](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.2...v24.8.0-pre.3) (2022-04-19)
+
+
+### Features
+
+* rc 1 ([8b6325f](https://github.com/kevinrodbe/changelog/commit/8b6325fdfd4c6d26165291fd5073a19baaec58d2))
+
 ## [24.8.0-pre.2](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.1...v24.8.0-pre.2) (2022-04-19)
 
 
