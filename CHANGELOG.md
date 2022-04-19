@@ -1,3 +1,10 @@
+## [25.1.0-pre.1](https://github.com/kevinrodbe/changelog/compare/v25.0.0...v25.1.0-pre.1) (2022-04-19)
+
+
+### Features
+
+* title ([dd53f19](https://github.com/kevinrodbe/changelog/commit/dd53f196f011b8d0281d061a6d242c94ccc3ecb9))
+
 ## [25.0.0](https://github.com/kevinrodbe/changelog/compare/v24.8.0...v25.0.0) (2022-04-19)
 
 
