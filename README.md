@@ -25,7 +25,7 @@ rc-1
 fix: rc 1
 fix: rc 2
 feat: 1
-feat: 2
+feat: 22
 
 ((el scope sirve para ponerlo en features o bug fixes))
 breaking changes
