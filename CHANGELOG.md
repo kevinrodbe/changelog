@@ -1,3 +1,10 @@
+## [24.7.0-pre.3](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.2...v24.7.0-pre.3) (2022-04-19)
+
+
+### Features
+
+* text ([0aea4e6](https://github.com/kevinrodbe/changelog/commit/0aea4e64603beeb5fcbcaa397f01767e302c6d68))
+
 ## [24.7.0-pre.2](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.1...v24.7.0-pre.2) (2022-04-18)
 
 
