@@ -1,6 +1,6 @@
 {
   "name": "@kevinrodbe/changelog",
-  "version": "24.7.1",
+  "version": "24.8.0-pre.4",
   "description": "my repo",
   "host": "github.com",
   "main": "index.js",
