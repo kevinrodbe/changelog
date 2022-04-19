@@ -1,3 +1,10 @@
+## [24.7.0-pre.5](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.4...v24.7.0-pre.5) (2022-04-19)
+
+
+### Features
+
+* merge ([582b5b1](https://github.com/kevinrodbe/changelog/commit/582b5b1811f157cb04344104dff7e2633ca6220f))
+
 ## [24.7.0](https://github.com/kevinrodbe/changelog/compare/v24.6.0...v24.7.0) (2022-04-19)
 
 
