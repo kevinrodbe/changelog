@@ -1,3 +1,18 @@
+## [24.7.0-pre.4](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.3...v24.7.0-pre.4) (2022-04-19)
+
+
+### Features
+
+* Merge pull request [#4](https://github.com/kevinrodbe/changelog/bug/4) from kevinrodbe/feature/2 ([7a6a851](https://github.com/kevinrodbe/changelog/commit/7a6a85166aaa88d3eb3915c139b1c7f9a85cab1b))
+* text 1 ([e8c7225](https://github.com/kevinrodbe/changelog/commit/e8c722540000633eb13fc9b310603d96612ad64d))
+* text 2 ([9ba3bc5](https://github.com/kevinrodbe/changelog/commit/9ba3bc56ebd1d08927cf47dee66234b9475ed768))
+* text 3 ([04c0d66](https://github.com/kevinrodbe/changelog/commit/04c0d667dd01ca89094b6c7d3526125e401be8da))
+
+
+### Bug Fixes
+
+* text 4 ([ea810c1](https://github.com/kevinrodbe/changelog/commit/ea810c145a3f45d1f30c5194548123760553b3a2))
+
 ## [24.7.0-pre.3](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.2...v24.7.0-pre.3) (2022-04-19)
 
 
