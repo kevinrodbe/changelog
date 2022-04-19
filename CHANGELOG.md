@@ -1,3 +1,11 @@
+## [24.8.0-pre.4](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.3...v24.8.0-pre.4) (2022-04-19)
+
+
+### Bug Fixes
+
+* rc 1 ([e9c05ca](https://github.com/kevinrodbe/changelog/commit/e9c05ca131f86be4c328b1b98058adadfd5e7be9))
+* rc 2 ([4a8b5ed](https://github.com/kevinrodbe/changelog/commit/4a8b5ed4e601db4c876f11467ba7a2d78d4aa374))
+
 ## [24.8.0-pre.3](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.2...v24.8.0-pre.3) (2022-04-19)
 
 
