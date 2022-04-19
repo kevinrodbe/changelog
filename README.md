@@ -23,6 +23,7 @@ ch 9
 ch 10
 rc-1
 fix: rc 1
+fix: rc 2
 
 ((el scope sirve para ponerlo en features o bug fixes))
 breaking changes
