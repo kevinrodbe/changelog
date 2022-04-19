@@ -121,7 +121,6 @@
             "changelogHeader": "# Hi\n\n bais hi lorem ipsum ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)",
             "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
             "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/bug/{{id}}",
-            "releaseCommitMessageFormat": "release: {{currentTag}}",
             "issuePrefixes": [
               "#"
             ]
@@ -135,7 +134,12 @@
           "npmPublish": true
         }
       ],
-      "@semantic-release/git",
+      [
+        "@semantic-release/git",
+        {
+          "message": "release: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ],
       "@semantic-release/github"
     ]
   }
