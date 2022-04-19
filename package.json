@@ -1,6 +1,6 @@
 {
   "name": "@kevinrodbe/changelog",
-  "version": "24.6.0",
+  "version": "24.7.0-pre.3",
   "description": "my repo",
   "host": "github.com",
   "main": "index.js",
@@ -86,6 +86,24 @@
     "@semantic-release/git": "^10.0.1"
   },
   "release": {
+    "branches": [
+      "+([0-9])?(.{+([0-9]),x}).x",
+      "master",
+      "next",
+      "next-major",
+      {
+        "name": "beta",
+        "prerelease": true
+      },
+      {
+        "name": "alpha",
+        "prerelease": true
+      },
+      {
+        "name": "pre",
+        "prerelease": true
+      }
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       [
@@ -100,7 +118,7 @@
             ]
           },
           "presetConfig": {
-            "changelogHeader": "# Hi\n\n bais bla ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)",
+            "changelogHeader": "# Hi\n\n bais lorem ![Insomnia API Client](https://raw.githubusercontent.com/Kong/insomnia/develop/screenshots/main.png)",
             "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
             "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/bug/{{id}}",
             "issuePrefixes": [

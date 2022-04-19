@@ -3,15 +3,13 @@ on:
   push:
     branches:
       - master
+      - pre
 jobs:
   Build-Deploy:
     name: Build-Deploy
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          ref: master
       - uses: actions/setup-node@v2
         with:
           node-version: 14.18.2
@@ -20,11 +18,9 @@ jobs:
       - run: git config user.email ${GITHUB_ACTOR}@users.noreply.github.com
       - name: Install deps (with cache) ⏬
         uses: bahmutov/npm-install@v1
-      - run: echo ${{ secrets.CHAMI }} !!
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       # - name: Bumping by minor 📦 🆙
       #   run: npm run minor

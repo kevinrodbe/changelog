@@ -1,3 +1,24 @@
+## [24.7.0-pre.3](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.2...v24.7.0-pre.3) (2022-04-19)
+
+
+### Features
+
+* text ([0aea4e6](https://github.com/kevinrodbe/changelog/commit/0aea4e64603beeb5fcbcaa397f01767e302c6d68))
+
+## [24.7.0-pre.2](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.1...v24.7.0-pre.2) (2022-04-18)
+
+
+### Features
+
+* remove comments from yml ([431dc6d](https://github.com/kevinrodbe/changelog/commit/431dc6d447045ccdf2c21ced5cdb8ef8846aaec7))
+
+## [24.7.0-pre.1](https://github.com/kevinrodbe/changelog/compare/v24.6.0...v24.7.0-pre.1) (2022-04-18)
+
+
+### Features
+
+* add branch ([dd2ef3b](https://github.com/kevinrodbe/changelog/commit/dd2ef3b10a52e54efd840615299111a97a5ed03a))
+
 ## [24.6.0](https://github.com/kevinrodbe/changelog/compare/v24.5.1...v24.6.0) (2022-04-18)
 
 
