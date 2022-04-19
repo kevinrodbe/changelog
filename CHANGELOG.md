@@ -1,3 +1,10 @@
+### [24.7.1](https://github.com/kevinrodbe/changelog/compare/v24.7.0...v24.7.1) (2022-04-19)
+
+
+### Bug Fixes
+
+* version master ([bd3dea9](https://github.com/kevinrodbe/changelog/commit/bd3dea9363dc577b26818b09377c25794c45499e))
+
 ## [24.7.0-pre.6](https://github.com/kevinrodbe/changelog/compare/v24.7.0-pre.5...v24.7.0-pre.6) (2022-04-19)
 
 
