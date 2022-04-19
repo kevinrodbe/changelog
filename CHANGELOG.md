@@ -1,3 +1,26 @@
+## [24.8.0](https://github.com/kevinrodbe/changelog/compare/v24.7.1...v24.8.0) (2022-04-19)
+
+
+### Features
+
+* merge ([582b5b1](https://github.com/kevinrodbe/changelog/commit/582b5b1811f157cb04344104dff7e2633ca6220f))
+* Merge pull request [#4](https://github.com/kevinrodbe/changelog/bug/4) from kevinrodbe/feature/2 ([7a6a851](https://github.com/kevinrodbe/changelog/commit/7a6a85166aaa88d3eb3915c139b1c7f9a85cab1b))
+* rc 1 ([8b6325f](https://github.com/kevinrodbe/changelog/commit/8b6325fdfd4c6d26165291fd5073a19baaec58d2))
+* text 1 ([e8c7225](https://github.com/kevinrodbe/changelog/commit/e8c722540000633eb13fc9b310603d96612ad64d))
+* text 2 ([9ba3bc5](https://github.com/kevinrodbe/changelog/commit/9ba3bc56ebd1d08927cf47dee66234b9475ed768))
+* text 3 ([04c0d66](https://github.com/kevinrodbe/changelog/commit/04c0d667dd01ca89094b6c7d3526125e401be8da))
+
+
+### Bug Fixes
+
+* merge pre with maaster ([b1b7dbd](https://github.com/kevinrodbe/changelog/commit/b1b7dbddf62d9e882c466d9e9fa12b4aae8cdc81))
+* merge syn master ([3ed869b](https://github.com/kevinrodbe/changelog/commit/3ed869b03630a72c29e0678983b29a36feb1d866))
+* rc 1 ([e9c05ca](https://github.com/kevinrodbe/changelog/commit/e9c05ca131f86be4c328b1b98058adadfd5e7be9))
+* rc 2 ([4a8b5ed](https://github.com/kevinrodbe/changelog/commit/4a8b5ed4e601db4c876f11467ba7a2d78d4aa374))
+* text 4 ([ea810c1](https://github.com/kevinrodbe/changelog/commit/ea810c145a3f45d1f30c5194548123760553b3a2))
+* version 2.8 ([270bead](https://github.com/kevinrodbe/changelog/commit/270bead0d7c2369eeeadb8b8c9728db1b3df7842))
+* version 2.8 merge ([b390d0e](https://github.com/kevinrodbe/changelog/commit/b390d0ecebf83e250ee28855ffb1a5b6081b3b4d))
+
 ## [24.8.0-pre.4](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.3...v24.8.0-pre.4) (2022-04-19)
 
 
