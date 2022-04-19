@@ -1,3 +1,11 @@
+## [24.8.0-pre.2](https://github.com/kevinrodbe/changelog/compare/v24.8.0-pre.1...v24.8.0-pre.2) (2022-04-19)
+
+
+### Bug Fixes
+
+* merge pre with maaster ([b1b7dbd](https://github.com/kevinrodbe/changelog/commit/b1b7dbddf62d9e882c466d9e9fa12b4aae8cdc81))
+* version master ([bd3dea9](https://github.com/kevinrodbe/changelog/commit/bd3dea9363dc577b26818b09377c25794c45499e))
+
 ### [24.7.1](https://github.com/kevinrodbe/changelog/compare/v24.7.0...v24.7.1) (2022-04-19)
 
 
