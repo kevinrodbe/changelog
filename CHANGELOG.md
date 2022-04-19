@@ -1,3 +1,19 @@
+## [25.0.0](https://github.com/kevinrodbe/changelog/compare/v24.8.0...v25.0.0) (2022-04-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** rompe
+
+### Features
+
+* **core:** danger ([362ae99](https://github.com/kevinrodbe/changelog/commit/362ae992bf0d2df6b5c791be6d1d6aa6154d36ab)), closes [#666](https://github.com/kevinrodbe/changelog/bug/666)
+
+
+### Bug Fixes
+
+* rc 4 ([b87eac8](https://github.com/kevinrodbe/changelog/commit/b87eac8281af7d674c3ddf55d0963e13e573a8e2))
+
 ## [25.0.0-pre.1](https://github.com/kevinrodbe/changelog/compare/v24.8.0...v25.0.0-pre.1) (2022-04-19)
 
 
